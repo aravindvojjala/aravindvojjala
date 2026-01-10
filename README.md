@@ -4,7 +4,7 @@ Hi 👋 I’m Aravind, an aspiring AI/LLM Engineer specializing in Machine Learn
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vojjala Aravind) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aravindvojjala123@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vojjala-aravind) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aravindvojjala123@gmail.com) 
 
 # 💻 Tech Stack:
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
